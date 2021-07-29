@@ -1,0 +1,43 @@
+ /* google font Poppins */
+ @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+
+.honda-top-bg{
+    background-color: #264653;
+}
+
+ h1{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 48px;
+    color:#0A0826;
+ }
+ .top-blgs-p{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 100;
+    font-size: 16px;
+    color: #E0E0E0;
+    
+ }
+ .heading-text{
+     color: white;
+ }
+ .modal-btn{
+    background-color:
+    #E76F51;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+ }
+ small{
+     color: #E76F51;
+ }
+ span{
+    color: #E76F51;
+ }
+ .fas{
+     color: #E76F51; 
+    
+ }
+ .icon-color> .fas{
+    color:lightgray;
+ }
